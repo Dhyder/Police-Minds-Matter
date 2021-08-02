@@ -316,3 +316,27 @@
 	text-align: left;
 	color:#FFFFFF;
 }
+#our_team_bar {
+	top: 2px;
+	left: 708px;
+	width: 158px;
+	height: 50px;
+	-ms-border-radius: 35px;
+	-o-border-radius: 35px;
+	-moz-border-radius: 35px;
+	-webkit-border-radius: 35px;
+	border-radius: 35px;
+	background:rgba(64.07,50.46,147.69,1);
+}
+#our_team {
+	top: 15px;
+	left: 740px;
+	width: 102px;
+	height: 37px;
+	overflow: hidden;
+	font-family: Nokora;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
