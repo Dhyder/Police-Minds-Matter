@@ -7,3 +7,6 @@ main{
     min-height: 100vh;
     background: linear-gradient(to bottom, #d3f5f6, #828585)
 }
+.image1{
+    z-index: 0.3;
+}
