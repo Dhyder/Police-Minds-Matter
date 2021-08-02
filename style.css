@@ -1,6 +1,9 @@
 #content-container { display: block; position: relative; width: 1440px;  margin-left: auto; margin-right: auto;  }
 
 #content-container > div{ position: relative; top:inherit; }
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+div { position: absolute; }
 #cophat {
 	top: 18px;
 	left: 134px;
@@ -387,4 +390,10 @@
 	font-weight: bold;
 	text-align: left;
 	color:#FFFFFF;
+}
+#desktop___5 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
 }
