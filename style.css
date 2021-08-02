@@ -364,3 +364,27 @@
 	text-align: left;
 	color:#FFFFFF;
 }
+#gallery_bar {
+	top: 0px;
+	left: 1062px;
+	width: 158px;
+	height: 50px;
+	-ms-border-radius: 35px;
+	-o-border-radius: 35px;
+	-moz-border-radius: 35px;
+	-webkit-border-radius: 35px;
+	border-radius: 35px;
+	background:rgba(64.07,50.46,147.69,1);
+}
+#gallery {
+	top: 15px;
+	left: 1109px;
+	width: 78px;
+	height: 37px;
+	overflow: hidden;
+	font-family: Nokora;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
