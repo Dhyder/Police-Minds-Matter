@@ -179,3 +179,32 @@
 	height: 184px;
 	background:rgba(223.13,218.48,218.48,1);
 }
+#intro {
+	top: 343px;
+	left: 58px;
+	width: 884.06px;
+	height: 184px;
+}
+#introk2 {
+	top: 643px;
+	left: 526px;
+	width: 884.06px;
+	height: 184px;
+}
+#intro_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 884px;
+	height: 184px;
+}
+#the_news_about_police_suicides{
+	top: 20px;
+	left: 18px;
+	width: 880px;
+	height: 157px;
+	overflow: hidden;
+	font-family: Nokora;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
