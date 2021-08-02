@@ -87,3 +87,59 @@
 	text-align: left;
 	color:#000000;
 }
+#harambeesacco_society {
+	top: 107px;
+	left: 165px;
+	width: 185px;
+	height: 30.5px;
+	overflow: hidden;
+	font-family: Nokora;
+	font-size: 15px;
+	text-decoration: underline;
+	text-align: left;
+	color:#000000;
+}
+#citizen {
+	top: 127px;
+	left: 281px;
+	width: 69px;
+	height: 30.5px;
+	overflow: hidden;
+	font-family: Nokora;
+	font-size: 15px;
+	text-decoration: underline;
+	text-align: left;
+	color:#000000;
+}
+#hudumakenya {
+	top: 147px;
+	left: 228px;
+	width: 122px;
+	height: 30.5px;
+	overflow: hidden;
+	font-family: Nokora;
+	font-size: 15px;
+	text-decoration: underline;
+	text-align: left;
+	color:#000000;
+}
+
+
+#staff_mail {
+	top: 167px;
+	left: 245px;
+	width: 110px;
+	height: 30.5px;
+	overflow: hidden;
+	font-family: Nokora;
+	font-size: 15px;
+	text-decoration: underline;
+	text-align: left;
+	color:#000000;
+}
+#quick_info {
+	top: 264px;
+	left: 1042px;
+	width: 398px;
+	height: 187px;
+}
