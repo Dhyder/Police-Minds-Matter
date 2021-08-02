@@ -143,3 +143,26 @@
 	width: 398px;
 	height: 187px;
 }
+#police_minds_ek1 {
+	top: 290px;
+	left: 58px;
+	width: 424px;
+	height: 81px;
+	overflow: hidden;
+	font-family: Nokora;
+	font-size: 40px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+#police_forum {
+	top: 20px;
+	left: 18px;
+	width: 880px;
+	height: 157px;
+	overflow: hidden;
+	font-family: Nokora;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
