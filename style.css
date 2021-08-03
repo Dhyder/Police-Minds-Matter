@@ -212,15 +212,15 @@ div { position: absolute; }
 	color:#000000;
 }
 #angry_policeman1 {
-position: absolute;
-width: 230px;
-height: 163px;
-left: 1121px;
-top: 857px;
-
-background: url(angry-policeman-police-officer-cartoon-2AE1T3J.jpg);
-background-blend-mode: darken;
-}
+    position: absolute;
+    width: 230px;
+    height: 163px;
+    left: 1121px;
+    top: 857px;
+    
+    background: url(angry-policeman-police-officer-cartoon-2AE1T3J.jpg);
+    background-blend-mode: darken;
+    }
 #nav_bar {
 	top: 131px;
 	left: 83px;
@@ -392,6 +392,11 @@ background-blend-mode: darken;
 	font-weight: bold;
 	text-align: left;
 	color:#FFFFFF;
+}#contact_us {
+	top: 2px;
+	left: 1255px;
+	width: 41px;
+	height: 42px;
 }
 #desktop___5 {
 	top: 0px;
@@ -399,7 +404,40 @@ background-blend-mode: darken;
 	width: 1440px;
 	height: 1024px;
 }
-a {
-    text-decoration: none;
-    color: #FFFFFF;
+#group_1 {
+	top: 217px;
+	left: 1310px;
+	width: 114px;
+	height: 26px;
+}
+#rectangle_4 {
+	top: 0px;
+	left: 0px;
+	width: 114px;
+	height: 26px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background:rgba(196,196,196,1);
+}
+#nps_signup {
+	top: 6px;
+	left: 10px;
+	width: 99px;
+	height: 30.5px;
+	overflow: hidden;
+	font-family: Nokora;
+	font-size: 15px;
+	font-weight: bold;
+	text-decoration: underline;
+	text-align: center;
+	color:#000000;
+}
+#suicide1_1 {
+	top: 614px;
+	left: 37px;
+	width: 446px;
+	height: 325px;
 }
