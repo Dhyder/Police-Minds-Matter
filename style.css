@@ -88,3 +88,24 @@ div { position: absolute; }
 	background: linear-gradient(180deg, #000000 0%, rgba(0, 0, 0, 0) 100%);
 	border-radius: 20px;
 }
+/*/styles the second shady box lp3/*/
+#rectangle_3 {
+	top: 528px;
+	left: 167px;
+	width: 1204px;
+	height: 400px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background:rgba(255,255,255,0);
+	position: absolute;
+	width: 1204px;
+	height: 400px;
+	left: 167px;
+	top: 528px;
+	
+	background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, #000000 100%);
+	border-radius: 20px;
+}
