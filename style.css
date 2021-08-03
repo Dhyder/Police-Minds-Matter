@@ -371,3 +371,77 @@ div { position: absolute; }
 	/* identical to box height */
 	color: #FFFFFF;	
 }
+
+#twitter {
+	top: 408px;
+	left: 59.8%;
+	width: 101px;
+	height: 50.5px;
+	overflow: hidden;
+	font-family: Nokora;
+	font-size: 25px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#facebook {
+	top: 469px;
+	left: 59.8%;
+	width: 131px;
+	height: 50.5px;
+	overflow: hidden;
+	font-family: Nokora;
+	font-size: 25px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#footer {
+	position: absolute;
+	width: 1239.14px;
+	height: 48px;
+	left: 98px;
+	top: 273px;
+}
+
+#contact_us_ek1 {
+	top: 0px;
+	left: 86%;
+	width: 213px;
+	height: 70.5px;
+	overflow: hidden;
+	font-family: Nokora;
+	font-size: 26px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#ways_to_support_us {
+	top: 0px;
+	left: 439px;
+	width: 365px;
+	height: 70.5px;
+	overflow: hidden;
+	font-family: Nokora;
+	font-size: 26px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#police_minds_matter_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 350px;
+	height: 24px;
+	font-family: Nokora;
+	font-size: 26px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+	line-height: 34px;
+}
