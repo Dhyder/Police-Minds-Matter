@@ -56,3 +56,14 @@ div { position: absolute; }
 	width: 762px;
 	height: 565px;
 }
+/*/creates the dark render layer for the lp3/*/
+#yellow_layer {
+	position: absolute;
+	width: 1440px;
+	height: 1024px;
+	left: 0px;
+	top: 0px;
+	
+	background: linear-gradient(180deg, rgba(97, 93, 93, 0.475309) 0%, rgba(100, 97, 97, 0) 48.96%, #5E5959 95.31%);
+	mix-blend-mode: darken;
+}
