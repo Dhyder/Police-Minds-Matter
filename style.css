@@ -298,3 +298,76 @@ div { position: absolute; }
 	text-align: left;
 	color:#FFFFFF;
 }
+
+/*/styles the phone icon lp4/*/
+#phone_symbol_icon_white_simple_outline_isolated_vector_illustration_rnj9em_1 {
+	position: absolute;
+	width: 28.12px;
+	height: 30px;
+	left: 78%;
+	top: 357px;
+	
+	background: url(https://user-images.githubusercontent.com/86789832/127866080-2a4a19d5-4c65-4c69-882a-c5d839842275.png);
+	border-radius: 15px;
+}
+
+/*/styles the email icon lp4/*/
+#_11_118725_email_icon_circle_hd_png_download_1 {
+	position: absolute;
+	width: 28.64px;
+	height: 30px;
+	left: 1046px;
+	top: 397px;
+	
+	background: url(https://user-images.githubusercontent.com/86789832/127865577-789f2ef1-1c29-47cd-a664-a23b097b698d.png);
+	border-radius: 50px;
+}
+
+
+#police_mindsmatter_nps_com {
+	position: absolute;
+	width: 211px;
+	height: 20px;
+	left: 1086px;
+	top: 402px;
+	
+	font-family: Nokora;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	line-height: 20px;
+	color: #FFFFFF;
+	/* identical to box height */
+	
+	
+	color: #FFFFFF;
+}
+
+/*/styles the link icon lp4/*/
+#link_icon_png_0_1 {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 1045px;
+	top: 437px;
+	
+	background: url(https://user-images.githubusercontent.com/86789832/127865461-c9b36e9a-c741-44ae-b4b7-746fe42ca8e1.png);
+	mix-blend-mode: darken;
+}
+
+
+#__254717927168 {
+	position: absolute;
+	width: 108px;
+	height: 20px;
+	left: 81%;
+	top: 362px;
+	
+	font-family: Nokora;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	line-height: 20px;
+	/* identical to box height */
+	color: #FFFFFF;	
+}
