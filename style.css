@@ -199,3 +199,27 @@ div { position: absolute; }
     left: 538px;
     top: 422px;
 }
+
+#volunteer {
+	top: 342px;
+	left: 538px;
+	width: 133px;
+	height: 50.5px;
+	overflow: hidden;
+	font-family: Nokora;
+	font-size: 25px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+/*/styles the chat icon lp4/*/
+#_0276e7e10311f0f161c5c38a2d7b8008_1 {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 1117px;
+	top: 477px;
+	
+	background: url(https://user-images.githubusercontent.com/86789832/127865257-a5383d18-3243-4083-9cb7-71e4f79cf1a8.png);
+	border-radius: 50px;
+}
