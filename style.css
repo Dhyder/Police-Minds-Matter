@@ -26,3 +26,11 @@ div { position: absolute; }
 	height: 1024px;
 	background:rgba(232.69,232.69,232.69,1);
 }
+
+/*/styles the police line-up img/*/
+#img_20210413131909_1 {
+	top: 0px;
+	left: 0px;
+	width: 678px;
+	height: 452px;
+}
