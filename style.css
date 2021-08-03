@@ -506,3 +506,20 @@ top: 0px;
 
 background: linear-gradient(180deg, rgba(133, 133, 133, 0) 27.08%, #858585 100%);
 }
+/*/creates the scorched rendering lp4/*/
+#black_layer {
+	position: absolute;
+	width: 1440px;
+	height: 1024px;
+	left: 0px;
+	top: 0px;
+	
+	background: #B38181;
+	mix-blend-mode: darken;
+}
+/*/styles all a links/*/
+a{
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
