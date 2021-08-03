@@ -445,3 +445,64 @@ div { position: absolute; }
 	color:#FFFFFF;
 	line-height: 34px;
 }
+
+#join_us_online {
+	top: 0px;
+	left: 62%;
+	width: 268px;
+	height: 70.5px;
+	overflow: hidden;
+	font-family: Nokora;
+	font-size: 26px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+
+
+}
+
+/*/line id's define line styling/*/
+#line_3 {
+	top: 39px;
+	left: 5px;
+	width: 230px;
+	height: 1px;
+	background:#FFFFFF;
+}
+
+
+#line_4 {
+	top: 39px;
+	left: 86%;
+	width: 120px;
+	height: 1px;
+	background:#FFFFFF;
+}
+
+
+#line_5 {
+	top: 39px;
+	left: 61.5%;
+	width: 180px;
+	height: 1px;
+	background:#FFFFFF;
+}
+
+
+#line_6 {
+	top: 39px;
+	left: 441px;
+	width: 240px;
+	height: 1px;
+	background:#FFFFFF;
+}
+/*/creates the linear white rendering lp4/*/
+#desktop___7 {
+position: absolute;
+width: 1440px;
+height: 1024px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(180deg, rgba(133, 133, 133, 0) 27.08%, #858585 100%);
+}
