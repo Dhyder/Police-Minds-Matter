@@ -67,3 +67,24 @@ div { position: absolute; }
 	background: linear-gradient(180deg, rgba(97, 93, 93, 0.475309) 0%, rgba(100, 97, 97, 0) 48.96%, #5E5959 95.31%);
 	mix-blend-mode: darken;
 }
+/*/styles the shady box lp3/*/
+#rectangle_2 {
+	top: 73px;
+	left: 167px;
+	width: 1188px;
+	height: 284px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background:rgba(255,255,255,0);
+	position: absolute;
+	width: 1188px;
+	height: 284px;
+	left: 167px;
+	top: 73px;
+	
+	background: linear-gradient(180deg, #000000 0%, rgba(0, 0, 0, 0) 100%);
+	border-radius: 20px;
+}
