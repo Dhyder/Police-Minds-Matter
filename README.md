@@ -3,7 +3,7 @@ Sensitization of police officers
 # Authors
 i.Amos kimutai
 ii.victor Wairuguni
-iii.Geoffrey Opeda
+iii.Geoffrey Openda
 ## Description
 A website that  involes Sensitization of police officers and help them air their problems to the relevant team for support.this will prevent a lot of cases
 which are currently a thread in our country due to increased murder cases among police force.It will be of a big use since police will be regularly holding 
