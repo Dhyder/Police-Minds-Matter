@@ -12,6 +12,9 @@ main {
     background: linear-gradient(to bottom, #d3f5f6, #828585)
 }
 
+.bglandingpage2{
+    background: linear-gradient(to top(#d1f3f4, #838484));
+}
 img {
     position: absolute;
     display: block;
