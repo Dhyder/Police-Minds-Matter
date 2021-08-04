@@ -655,6 +655,8 @@ width: 177px;
 height: 154px;
 left: 19px;
 top: 0px;
+background-blend-mode: darken;
+border-radius: 80px;
 }
 
 
