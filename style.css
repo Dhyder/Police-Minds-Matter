@@ -156,7 +156,7 @@
     margin-top:0px;
     margin-bottom:0.25px;
     min-height:93px;
-    content:url(assets/images/Cop_Hat.png);
+    content:url(https://user-images.githubusercontent.com/87479966/128149290-ece58ef9-bdd3-4f34-9b29-34f1a8e5499b.png);
   }
   .Cop-Hat-outer{
     position:relative;
@@ -203,7 +203,7 @@
     margin-top:-995px;
     margin-bottom:913px;
     min-height:82px;
-    content:url(assets/images/Nps_Logo.png);
+    content:url(https://user-images.githubusercontent.com/87479966/128149123-91b027f5-b78c-4522-a48f-df18a48e775c.png);
   }
   .Nps-Logo-outer{
     position:relative;
@@ -254,7 +254,7 @@
     margin-top:-975px;
     margin-bottom:913px;
     min-height:62px;
-    content:url(assets/images/Harambee_Logo.png);
+    content:url(https://user-images.githubusercontent.com/87479966/128148828-033719fc-f8d0-4b1a-affa-ce30b3c77367.png);
   }
   .Harambee-Logo-outer{
     position:relative;
@@ -443,7 +443,7 @@
     cursor:pointer;
     min-width:41px;
     min-height:42px;
-    content:url(assets/images/Contact_Us.png);
+    content:url(https://user-images.githubusercontent.com/87479966/128148614-0b13a037-b70f-4054-8385-7efe8dfc80da.png);
     width:100%;
     height:100%;
   }
@@ -1093,7 +1093,8 @@
     margin-top:-410px;
     margin-bottom:85px;
     min-height:325px;
-    content:url(assets/images/Suicide1_1.png);
+    content:url(https://user-images.githubusercontent.com/87479966/128146732-8b6830eb-a425-4ca6-984b-d6e1859b07f6.png)
+    ;
   }
   .Suicide1-1-outer{
     position:relative;
@@ -1194,7 +1195,8 @@
     margin-top:-167px;
     margin-bottom:4px;
     min-height:163px;
-    content:url(assets/images/angry_policeman_police_officer_cartoon_2AE1T3J_1.png);
+    content:url(https://user-images.githubusercontent.com/87479966/128146305-4ef0f370-a4da-48d3-807e-07a9964117d0.png)
+    ;
   }
   .angry-policeman-poli-outer{
     position:relative;
