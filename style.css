@@ -1,0 +1,532 @@
+/*/styles lp3&4 html doc/*/
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+div { position: absolute; }
+#content-container { display: block; position: relative; width: 1440px;  margin-left: auto; margin-right: auto;  }
+#content-container > div{ position: relative; top:inherit; }
+
+
+#page_landing_page_1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+}
+#page_landing_page_3_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+}
+
+#_bg__landing_page_3_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+	background:rgba(232.69,232.69,232.69,1);
+}
+
+/*/styles the police line-up img/*/
+#img_20210413131909_1 {
+	top: 0px;
+	left: 0px;
+	width: 678px;
+	height: 452px;
+}
+
+/*/styles the green march img/*/
+#_2805c40095c2fb2c_1 {
+	top: 452px;
+	left: 0px;
+	width: 678px;
+	height: 572px;
+}
+
+/*/styles the inspection img/*/
+#rclpmhejqdw05eca3247c4d46_1 {
+	top: 565px;
+	left: 678px;
+	width: 762px;
+	height: 459px;
+}
+
+/*/styles the matiang'i award img/*/
+#matiangi_1 {
+	top: 0px;
+	left: 678px;
+	width: 762px;
+	height: 565px;
+}
+/*/creates the dark render layer for the lp3/*/
+#yellow_layer {
+	position: absolute;
+	width: 1440px;
+	height: 1024px;
+	left: 0px;
+	top: 0px;
+	
+	background: linear-gradient(180deg, rgba(97, 93, 93, 0.475309) 0%, rgba(100, 97, 97, 0) 48.96%, #5E5959 95.31%);
+	mix-blend-mode: darken;
+}
+/*/styles the shady box lp3/*/
+#rectangle_2 {
+	top: 73px;
+	left: 167px;
+	width: 1188px;
+	height: 284px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background:rgba(255,255,255,0);
+	position: absolute;
+	width: 1188px;
+	height: 284px;
+	left: 167px;
+	top: 73px;
+	
+	background: linear-gradient(180deg, #000000 0%, rgba(0, 0, 0, 0) 100%);
+	border-radius: 20px;
+}
+
+/*/styles the second shady box lp3/*/
+#rectangle_3 {
+	top: 528px;
+	left: 167px;
+	width: 1204px;
+	height: 400px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background:rgba(255,255,255,0);
+	position: absolute;
+	width: 1204px;
+	height: 400px;
+	left: 167px;
+	top: 528px;
+	
+	background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, #000000 100%);
+	border-radius: 20px;
+}
+
+/*/styles the first paragraph lp3/*/
+#p1 {
+	position: absolute;
+	width: 886px;
+	height: 198px;
+	left: 327px;
+	top: 103px;
+	
+	font-family: Nokora;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	line-height: 33px;
+	text-align: center;
+	
+	color: #FFFFFF;
+	
+	text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+/*/styles the second paragraph lp3/*/
+#p2 {
+	position: absolute;
+	width: 992px;
+	height: 264px;
+	left: 265px;
+	top: 640px;
+	
+	font-family: Nokora;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	line-height: 33px;
+	text-align: center;
+	
+	color: #FFFFFF;
+	
+	text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#page_landin_page_4_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+}
+
+#_bg__landin_page_4_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+	background:rgba(255,255,255,1);
+}
+
+
+#ap_1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+}
+
+/*/styles the shady box lp4/*/
+#rectangle_1 {
+	position: absolute;
+	width: 1240px;
+	height: 380px;
+	left: 72px;
+	top: 256px;
+	
+	background: linear-gradient(180deg, #000000 0%, rgba(0, 0, 0, 0) 100%);
+	mix-blend-mode: darken;
+	border-radius: 20px;
+}
+
+
+#donate {
+	overflow: hidden;
+	font-family: Nokora;
+	font-size: 25px;
+	text-align: left;
+	color:#FFFFFF;
+	position: absolute;
+    width: 226px;
+    height: 33px;
+    left: 538px;
+    top: 422px;
+}
+
+
+#volunteer {
+	top: 342px;
+	left: 538px;
+	width: 133px;
+	height: 50.5px;
+	overflow: hidden;
+	font-family: Nokora;
+	font-size: 25px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+/*/styles the chat icon lp4/*/
+#_0276e7e10311f0f161c5c38a2d7b8008_1 {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 1117px;
+	top: 477px;
+	
+	background: url(https://user-images.githubusercontent.com/86789832/127865257-a5383d18-3243-4083-9cb7-71e4f79cf1a8.png);
+	border-radius: 50px;
+}
+
+
+#a_new_leaf_for_our_officers_nation_wide {
+	top: 342px;
+	left: 98px;
+	width: 321px;
+	height: 83.5px;
+	overflow: hidden;
+	font-family: Nokora;
+	font-size: 25px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#leave_us_a_message {
+	position: absolute;
+	width: 140px;
+	height: 20px;
+	left: 80%;
+	top: 482px;
+	
+	font-family: Nokora;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	line-height: 20px;
+	/* identical to box height */
+	
+	
+	color: #FFFFFF;
+}
+
+
+#www_police_mindsmatter_com {
+	position: absolute;
+	width: 211px;
+	height: 20px;
+	left: 1086px;
+	top: 442px;
+	
+	font-family: Nokora;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	line-height: 20px;
+	/* identical to box height */
+	color: #FFFFFF;
+	
+}
+
+
+#become_a_member {
+	top: 502px;
+	left: 538px;
+	width: 240px;
+	height: 50.5px;
+	overflow: hidden;
+	font-family: Nokora;
+	font-size: 25px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#instagram {
+	top: 348px;
+	left: 59.8%;
+	width: 140px;
+	height: 50.5px;
+	overflow: hidden;
+	font-family: Nokora;
+	font-size: 25px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+/*/styles the phone icon lp4/*/
+#phone_symbol_icon_white_simple_outline_isolated_vector_illustration_rnj9em_1 {
+	position: absolute;
+	width: 28.12px;
+	height: 30px;
+	left: 78%;
+	top: 357px;
+	
+	background: url(https://user-images.githubusercontent.com/86789832/127866080-2a4a19d5-4c65-4c69-882a-c5d839842275.png);
+	border-radius: 15px;
+}
+
+/*/styles the email icon lp4/*/
+#_11_118725_email_icon_circle_hd_png_download_1 {
+	position: absolute;
+	width: 28.64px;
+	height: 30px;
+	left: 1046px;
+	top: 397px;
+	
+	background: url(https://user-images.githubusercontent.com/86789832/127865577-789f2ef1-1c29-47cd-a664-a23b097b698d.png);
+	border-radius: 50px;
+}
+
+
+#police_mindsmatter_nps_com {
+	position: absolute;
+	width: 211px;
+	height: 20px;
+	left: 1086px;
+	top: 402px;
+	
+	font-family: Nokora;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	line-height: 20px;
+	color: #FFFFFF;
+	/* identical to box height */
+	
+	
+	color: #FFFFFF;
+}
+
+/*/styles the link icon lp4/*/
+#link_icon_png_0_1 {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 1045px;
+	top: 437px;
+	
+	background: url(https://user-images.githubusercontent.com/86789832/127865461-c9b36e9a-c741-44ae-b4b7-746fe42ca8e1.png);
+	mix-blend-mode: darken;
+}
+
+
+#__254717927168 {
+	position: absolute;
+	width: 108px;
+	height: 20px;
+	left: 81%;
+	top: 362px;
+	
+	font-family: Nokora;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	line-height: 20px;
+	/* identical to box height */
+	color: #FFFFFF;	
+}
+
+
+#twitter {
+	top: 408px;
+	left: 59.8%;
+	width: 101px;
+	height: 50.5px;
+	overflow: hidden;
+	font-family: Nokora;
+	font-size: 25px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#facebook {
+	top: 469px;
+	left: 59.8%;
+	width: 131px;
+	height: 50.5px;
+	overflow: hidden;
+	font-family: Nokora;
+	font-size: 25px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#footer {
+	position: absolute;
+	width: 1239.14px;
+	height: 48px;
+	left: 98px;
+	top: 273px;
+}
+
+#contact_us_ek1 {
+	top: 0px;
+	left: 86%;
+	width: 213px;
+	height: 70.5px;
+	overflow: hidden;
+	font-family: Nokora;
+	font-size: 26px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#ways_to_support_us {
+	top: 0px;
+	left: 439px;
+	width: 365px;
+	height: 70.5px;
+	overflow: hidden;
+	font-family: Nokora;
+	font-size: 26px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#police_minds_matter_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 350px;
+	height: 24px;
+	font-family: Nokora;
+	font-size: 26px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+	line-height: 34px;
+}
+
+
+#join_us_online {
+	top: 0px;
+	left: 62%;
+	width: 268px;
+	height: 70.5px;
+	overflow: hidden;
+	font-family: Nokora;
+	font-size: 26px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+
+
+}
+
+/*/line id's define line styling/*/
+#line_3 {
+	top: 39px;
+	left: 5px;
+	width: 230px;
+	height: 1px;
+	background:#FFFFFF;
+}
+
+
+#line_4 {
+	top: 39px;
+	left: 86%;
+	width: 120px;
+	height: 1px;
+	background:#FFFFFF;
+}
+
+
+#line_5 {
+	top: 39px;
+	left: 61.5%;
+	width: 180px;
+	height: 1px;
+	background:#FFFFFF;
+}
+
+
+#line_6 {
+	top: 39px;
+	left: 441px;
+	width: 240px;
+	height: 1px;
+	background:#FFFFFF;
+}
+/*/creates the linear white rendering lp4/*/
+#desktop___7 {
+position: absolute;
+width: 1440px;
+height: 1024px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(180deg, rgba(133, 133, 133, 0) 27.08%, #858585 100%);
+}
+/*/creates the scorched rendering lp4/*/
+#black_layer {
+	position: absolute;
+	width: 1440px;
+	height: 1024px;
+	left: 0px;
+	top: 0px;
+	
+	background: #B38181;
+	mix-blend-mode: darken;
+}
+/*/styles all a links/*/
+a{
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
