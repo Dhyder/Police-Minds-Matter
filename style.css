@@ -1,438 +1,1205 @@
-#content-container { display: block; position: relative; width: 1440px;  margin-left: auto; margin-right: auto;  }
-
-#content-container > div{ position: relative; top:inherit; }
-body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
-img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
-div { position: absolute; }
-#cophat {
-	top: 18px;
-	left: 134px;
-	width: 155px;
-	height: 93.25px;
-}
-#police_minds {
-	top: 31px;
-	left: 352px;
-	width: 773px;
-	height: 130px;
-	overflow: hidden;
-	font-family: Nokora;
-	font-size: 64px;
-	font-weight: bold;
-	text-align: left;
-	color:#636962;
-}
-#_bg__landing_page_1_ek2 {
-	top: 0px;
-	left: 0px;
-	width: 1440px;
-	height: 1024px;
-	background:rgba(232.69,232.69,232.69,1);
-}
-#line_1 {
-	top: 203px;
-	left: 0px;
-	width: 1440px;
-	height: 1px;
-	background:#000000;
-}
-#quick_info {
-	top: 264px;
-	left: 1042px;
-	width: 398px;
-	height: 187px;
-}
-#line_2 {
-	top: 47px;
-	left: 0px;
-	width: 398px;
-	height: 1px;
-	background:#000000;
-}
-#quick_info_ek1 {
-	top: 0px;
-	left: 0px;
-	width: 177px;
-	height: 61px;
-	overflow: hidden;
-	font-family: Nokora;
-	font-size: 30px;
-	font-weight: bold;
-	text-align: left;
-	color:#CE1F1F;
-}
-#g_h_r_i_s {
-	top: 67px;
-	left: 276px;
-	width: 74px;
-	height: 30.5px;
-	overflow: hidden;
-	font-family: Nokora;
-	font-size: 15px;
-	text-decoration:none;
-	text-align: left;
-	color:#000000;
-}
-#kenya_police_sacco {
-	top: 87px;
-	left: 204px;
-	width: 146px;
-	height: 30.5px;
-	overflow: hidden;
-	font-family: Nokora;
-	font-size: 15px;
-	text-decoration:none;
-	text-align: left;
-	color:#000000;
-}
-#harambeesacco_society {
-	top: 107px;
-	left: 165px;
-	width: 185px;
-	height: 30.5px;
-	overflow: hidden;
-	font-family: Nokora;
-	font-size: 15px;
-	text-decoration:none;
-	text-align: left;
-	color:#000000;
-}
-#citizen {
-	top: 127px;
-	left: 281px;
-	width: 69px;
-	height: 30.5px;
-	overflow: hidden;
-	font-family: Nokora;
-	font-size: 15px;
-	text-decoration:none;
-	text-align: left;
-	color:#000000;
-}
-#hudumakenya {
-	top: 147px;
-	left: 228px;
-	width: 122px;
-	height: 30.5px;
-	overflow: hidden;
-	font-family: Nokora;
-	font-size: 15px;
-	text-decoration:none;
-	text-align: left;
-	color:#000000;
-}
-
-
-#staff_mail {
-	top: 167px;
-	left: 245px;
-	width: 110px;
-	height: 30.5px;
-	overflow: hidden;
-	font-family: Nokora;
-	font-size: 15px;
-	text-decoration:none;
-	text-align: left;
-	color:#000000;
-}
-#quick_info {
-	top: 264px;
-	left: 1042px;
-	width: 398px;
-	height: 187px;
-}
-#police_minds_ek1 {
-	top: 290px;
-	left: 58px;
-	width: 424px;
-	height: 81px;
-	overflow: hidden;
-	font-family: Nokora;
-	font-size: 40px;
-	font-weight: bold;
-	text-align: left;
-	color:#000000;
-}
-#police_forum {
-	top: 20px;
-	left: 18px;
-	width: 880px;
-	height: 157px;
-	overflow: hidden;
-	font-family: Nokora;
-	font-size: 18px;
-	text-align: left;
-	color:#000000;
-}
-#intro1 {
-	top: 0px;
-	left: 0px;
-	width: 871px;
-	height: 184px;
-}
-#introbox {
-	top: 0px;
-	left: 0px;
-	width: 871px;
-	height: 184px;
-	background:rgba(223.13,218.48,218.48,1);
-}
-#intro {
-	top: 343px;
-	left: 58px;
-	width: 884.06px;
-	height: 184px;
-}
-#introk2 {
-	top: 643px;
-	left: 526px;
-	width: 884.06px;
-	height: 184px;
-}
-#intro_ek3 {
-	top: 0px;
-	left: 0px;
-	width: 884px;
-	height: 184px;
-}
-#the_news_about_police_suicides{
-	top: 20px;
-	left: 18px;
-	width: 880px;
-	height: 157px;
-	overflow: hidden;
-	font-family: Nokora;
-	font-size: 18px;
-	text-align: left;
-	color:#000000;
-}
-#angry_policeman1 {
-    position: absolute;
-    width: 230px;
-    height: 163px;
-    left: 1121px;
-    top: 857px;
-    
-    background: url(angry-policeman-police-officer-cartoon-2AE1T3J.jpg);
-    background-blend-mode: darken;
-    }
-#nav_bar {
-	top: 131px;
-	left: 83px;
-	width: 1296px;
-	height: 52px;
-}
-#home_bar {
-	top: 1px;
-	left: 0px;
-	width: 158px;
-	height: 50px;
-	-ms-border-radius: 35px;
-	-o-border-radius: 35px;
-	-moz-border-radius: 35px;
-	-webkit-border-radius: 35px;
-	border-radius: 35px;
-	background:rgba(64.07,50.46,147.69,1);
-}
-#home {
-	top: 14px;
-	left: 51px;
-	width: 68px;
-	height: 37px;
-	overflow: hidden;
-	font-family: Nokora;
-	font-size: 18px;
-	font-weight: bold;
-	text-align: left;
-	color:#FFFFFF;
-}
-#our_approach_bar {
-	top: 0px;
-	left: 177px;
-	width: 158px;
-	height: 50px;
-	-ms-border-radius: 35px;
-	-o-border-radius: 35px;
-	-moz-border-radius: 35px;
-	-webkit-border-radius: 35px;
-	border-radius: 35px;
-	background:rgba(64.07,50.46,147.69,1);
-}
-#our_approach {
-	top: 14px;
-	left: 193px;
-	width: 140px;
-	height: 37px;
-	overflow: hidden;
-	font-family: Nokora;
-	font-size: 18px;
-	font-weight: bold;
-	text-align: left;
-	color:#FFFFFF;
-}
-#our_programs_bar {
-	top: 0px;
-	left: 354px;
-	width: 158px;
-	height: 50px;
-	-ms-border-radius: 35px;
-	-o-border-radius: 35px;
-	-moz-border-radius: 35px;
-	-webkit-border-radius: 35px;
-	border-radius: 35px;
-	background:rgba(64.07,50.46,147.69,1);
-}
-#our_programs {
-	top: 13px;
-	left: 370px;
-	width: 140px;
-	height: 37px;
-	overflow: hidden;
-	font-family: Nokora;
-	font-size: 18px;
-	font-weight: bold;
-	text-align: left;
-	color:#FFFFFF;
-}
-#stories_bar {
-	top: 1px;
-	left: 531px;
-	width: 158px;
-	height: 50px;
-	-ms-border-radius: 35px;
-	-o-border-radius: 35px;
-	-moz-border-radius: 35px;
-	-webkit-border-radius: 35px;
-	border-radius: 35px;
-	background:rgba(64.07,50.46,147.69,1);
-}
-#stories {
-	top: 14px;
-	left: 578px;
-	width: 77px;
-	height: 37px;
-	overflow: hidden;
-	font-family: Nokora;
-	font-size: 18px;
-	font-weight: bold;
-	text-align: left;
-	color:#FFFFFF;
-}
-#our_team_bar {
-	top: 2px;
-	left: 708px;
-	width: 158px;
-	height: 50px;
-	-ms-border-radius: 35px;
-	-o-border-radius: 35px;
-	-moz-border-radius: 35px;
-	-webkit-border-radius: 35px;
-	border-radius: 35px;
-	background:rgba(64.07,50.46,147.69,1);
-}
-#our_team {
-	top: 15px;
-	left: 740px;
-	width: 102px;
-	height: 37px;
-	overflow: hidden;
-	font-family: Nokora;
-	font-size: 18px;
-	font-weight: bold;
-	text-align: left;
-	color:#FFFFFF;
-}
-#resources_bar {
-	top: 1px;
-	left: 885px;
-	width: 158px;
-	height: 50px;
-	-ms-border-radius: 35px;
-	-o-border-radius: 35px;
-	-moz-border-radius: 35px;
-	-webkit-border-radius: 35px;
-	border-radius: 35px;
-	background:rgba(64.07,50.46,147.69,1);
-}
-#resources {
-	top: 14px;
-	left: 917px;
-	width: 106px;
-	height: 37px;
-	overflow: hidden;
-	font-family: Nokora;
-	font-size: 18px;
-	font-weight: bold;
-	text-align: left;
-	color:#FFFFFF;
-}
-#gallery_bar {
-	top: 0px;
-	left: 1062px;
-	width: 158px;
-	height: 50px;
-	-ms-border-radius: 35px;
-	-o-border-radius: 35px;
-	border-radius: 35px;
-	background:rgba(64.07,50.46,147.69,1);
-}
-#gallery {
-	top: 15px;
-	left: 1109px;
-	width: 78px;
-	height: 37px;
-	overflow: hidden;
-	font-family: Nokora;
-	font-size: 18px;
-	font-weight: bold;
-	text-align: left;
-	color:#FFFFFF;
-}#contact_us {
-	top: 2px;
-	left: 1255px;
-	width: 41px;
-	height: 42px;
-}
-#desktop___5 {
-	top: 0px;
-	left: 0px;
-	width: 1440px;
-	height: 1024px;
-}
-#group_1 {
-	top: 217px;
-	left: 1310px;
-	width: 114px;
-	height: 26px;
-}
-#rectangle_4 {
-	top: 0px;
-	left: 0px;
-	width: 114px;
-	height: 26px;
-	-ms-border-radius: 20px;
-	-o-border-radius: 20px;
-	-moz-border-radius: 20px;
-	-webkit-border-radius: 20px;
-	border-radius: 20px;
-	background:rgba(196,196,196,1);
-}
-#nps_signup {
-	top: 6px;
-	left: 10px;
-	width: 99px;
-	height: 30.5px;
-	overflow: hidden;
-	font-family: Nokora;
-	font-size: 15px;
-	font-weight: bold;
-	text-decoration: underline;
-	text-align: center;
-	color:#000000;
-}
-#suicide1_1 {
-	top: 614px;
-	left: 37px;
-	width: 446px;
-	height: 325px;
-}
+.websiteBody{
+    margin: 0;
+  }.Page{
+    display:block;
+    margin:auto;
+    width:100%;
+    height:auto;
+    pointer-events:auto;
+  }
+  .Page-outer{
+    position:relative;
+    display:flex;
+    pointer-events:none;
+    z-index:1;
+  }
+  .Frame{
+    position:relative;
+    z-index:2;
+    pointer-events:none;
+    width:100%;
+    margin-left:0;
+    min-width:200px;
+    max-width:1440px;
+    margin:auto;
+    background-color:rgba(233, 233, 233, 1);
+    overflow:hidden;
+  }
+  .Frame-outer{
+    position:relative;
+    display:flex;
+    pointer-events:none;
+    z-index:2;
+  }
+  .Desktop---5{
+    position:relative;
+    z-index:21;
+    pointer-events:none;
+    margin-left:0px;
+    width:1440px;
+    min-width:1440px;
+    height:1024px;
+    margin-top:0px;
+    margin-bottom:0px;
+    min-height:1024px;
+    background:linear-gradient(180deg, rgba(0, 0, 0, 0) 22.395832836627953%, rgba(255, 255, 255, 1) 89.58333134651183%);
+    mix-blend-mode:darken;
+    overflow:hidden;
+  }
+  .Desktop---5-outer{
+    position:relative;
+    display:flex;
+    pointer-events:none;
+  }
+  .Group-1{
+    position:relative;
+    z-index:22;
+    pointer-events:none;
+    margin-left:1290px;
+    width:114px;
+    min-width:114px;
+    height:26px;
+    margin-top:217px;
+    margin-bottom:781px;
+    min-height:26px;
+  }
+  .Group-1-outer{
+    position:relative;
+    display:flex;
+    pointer-events:none;
+    z-index:22;
+  }
+  .Rectangle-4{
+    position:relative;
+    z-index:23;
+    pointer-events:auto;
+    cursor:pointer;
+    min-width:114px;
+    min-height:26px;
+    background-color:rgba(196, 196, 196, 1);
+    border-radius:20px;
+    width:100%;
+    height:100%;
+  }
+  .Rectangle-4-outer{
+    position:relative;
+    display:flex;
+    pointer-events:none;
+    z-index:23;
+  }
+  .Rectangle-4-url{
+    text-decoration:none;
+    margin-left:0px;
+    width:114px;
+    height:26px;
+    margin-top:3px;
+    margin-bottom:-3px;
+  }
+  .NPS-Signup{
+    position:relative;
+    z-index:24;
+    pointer-events:auto;
+    cursor:pointer;
+    min-width:86px;
+    min-height:20px;
+    text-align:center;
+    display:flex;
+    flex-direction:column;
+    justify-content:flex-start;
+    color:rgba(0, 0, 0, 1);
+    font-style:normal;
+    font-family:Nokora;
+    font-weight:700;
+    font-size:15px;
+    line-height:20px;
+  }
+  .NPS-Signup-outer{
+    position:relative;
+    display:flex;
+    pointer-events:none;
+    z-index:24;
+  }
+  .NPS-Signup-url{
+    text-decoration:none;
+    margin-left:13px;
+    width:86px;
+    margin-top:-20px;
+    margin-bottom:0px;
+  }
+  .Cop-hat{
+    position:relative;
+    z-index:6;
+    pointer-events:none;
+    margin-left:134px;
+    width:155px;
+    min-width:155px;
+    height:93.25px;
+    margin-top:-1006px;
+    margin-bottom:912.75px;
+    min-height:93.25px;
+    visibility:hidden;
+  }
+  .Cop-hat-outer{
+    position:relative;
+    display:flex;
+    pointer-events:none;
+    z-index:6;
+  }
+  .Cop-Hat{
+    position:relative;
+    z-index:7;
+    pointer-events:none;
+    margin-left:0px;
+    width:155px;
+    min-width:155px;
+    height:93px;
+    margin-top:0px;
+    margin-bottom:0.25px;
+    min-height:93px;
+    content:url(assets/images/Cop_Hat.png);
+  }
+  .Cop-Hat-outer{
+    position:relative;
+    display:flex;
+    pointer-events:none;
+    z-index:7;
+  }
+  .P-M-M{
+    position:relative;
+    z-index:8;
+    pointer-events:none;
+    transform:rotate(19.26057901788948deg);
+    margin-left:90px;
+    width:53px;
+    min-width:53px;
+    margin-top:-29.25px;
+    margin-bottom:7.25px;
+    min-height:22px;
+    text-align:left;
+    display:flex;
+    flex-direction:column;
+    justify-content:flex-start;
+    color:rgba(65, 65, 65, 1);
+    font-style:normal;
+    font-family:Oxanium;
+    font-weight:400;
+    font-size:10px;
+    line-height:13px;
+  }
+  .P-M-M-outer{
+    position:relative;
+    display:flex;
+    pointer-events:none;
+    z-index:8;
+  }
+  .Nps-Logo{
+    position:relative;
+    z-index:5;
+    pointer-events:none;
+    margin-left:1280px;
+    width:99px;
+    min-width:99px;
+    height:82px;
+    margin-top:-995px;
+    margin-bottom:913px;
+    min-height:82px;
+    content:url(assets/images/Nps_Logo.png);
+  }
+  .Nps-Logo-outer{
+    position:relative;
+    display:flex;
+    pointer-events:none;
+    z-index:5;
+  }
+  .POLICE-MINDS-MATTER{
+    position:relative;
+    z-index:3;
+    pointer-events:auto;
+    cursor:pointer;
+    min-width:736px;
+    min-height:85px;
+    text-align:left;
+    display:flex;
+    flex-direction:column;
+    justify-content:flex-start;
+    color:rgba(99, 105, 99, 1);
+    font-style:normal;
+    font-family:Nokora;
+    font-weight:700;
+    font-size:64px;
+    line-height:85px;
+    text-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+  }
+  .POLICE-MINDS-MATTER-outer{
+    position:relative;
+    display:flex;
+    pointer-events:none;
+    z-index:3;
+  }
+  .POLICE-MINDS-MATTER-url{
+    text-decoration:none;
+    margin-left:352px;
+    width:769px;
+    margin-top:-993px;
+    margin-bottom:908px;
+  }
+  .Harambee-Logo{
+    position:relative;
+    z-index:9;
+    pointer-events:none;
+    margin-left:50px;
+    width:66px;
+    min-width:66px;
+    height:62px;
+    margin-top:-975px;
+    margin-bottom:913px;
+    min-height:62px;
+    content:url(assets/images/Harambee_Logo.png);
+  }
+  .Harambee-Logo-outer{
+    position:relative;
+    display:flex;
+    pointer-events:none;
+    z-index:9;
+  }
+  .Nav-bar{
+    position:relative;
+    z-index:34;
+    pointer-events:none;
+    margin-left:83px;
+    width:1296px;
+    min-width:1296px;
+    height:52px;
+    margin-top:-893px;
+    margin-bottom:841px;
+    min-height:52px;
+  }
+  .Nav-bar-outer{
+    position:relative;
+    display:flex;
+    pointer-events:none;
+    z-index:34;
+  }
+  .Gallery-bar{
+    position:relative;
+    z-index:47;
+    pointer-events:auto;
+    cursor:pointer;
+    min-width:158px;
+    min-height:50px;
+    background-color:rgba(64, 50, 148, 1);
+    border-radius:35px;
+    width:100%;
+    height:100%;
+  }
+  .Gallery-bar-outer{
+    position:relative;
+    display:flex;
+    pointer-events:none;
+    z-index:47;
+  }
+  .Gallery-bar-url{
+    text-decoration:none;
+    margin-left:1062px;
+    width:158px;
+    height:50px;
+    margin-top:0px;
+    margin-bottom:2px;
+  }
+  .Our-Programs-bar{
+    position:relative;
+    z-index:39;
+    pointer-events:auto;
+    cursor:pointer;
+    min-width:158px;
+    min-height:50px;
+    background-color:rgba(64, 50, 148, 1);
+    border-radius:35px;
+    width:100%;
+    height:100%;
+  }
+  .Our-Programs-bar-outer{
+    position:relative;
+    display:flex;
+    pointer-events:none;
+    z-index:39;
+  }
+  .Our-Programs-bar-url{
+    text-decoration:none;
+    margin-left:354px;
+    width:158px;
+    height:50px;
+    margin-top:-52px;
+    margin-bottom:2px;
+  }
+  .Our-Approach-bar{
+    position:relative;
+    z-index:37;
+    pointer-events:auto;
+    cursor:pointer;
+    min-width:158px;
+    min-height:50px;
+    background-color:rgba(64, 50, 148, 1);
+    border-radius:35px;
+    width:100%;
+    height:100%;
+  }
+  .Our-Approach-bar-outer{
+    position:relative;
+    display:flex;
+    pointer-events:none;
+    z-index:37;
+  }
+  .Our-Approach-bar-url{
+    text-decoration:none;
+    margin-left:177px;
+    width:158px;
+    height:50px;
+    margin-top:-52px;
+    margin-bottom:2px;
+  }
+  .Resources-bar{
+    position:relative;
+    z-index:45;
+    pointer-events:auto;
+    cursor:pointer;
+    min-width:158px;
+    min-height:50px;
+    background-color:rgba(64, 50, 148, 1);
+    border-radius:35px;
+    width:100%;
+    height:100%;
+  }
+  .Resources-bar-outer{
+    position:relative;
+    display:flex;
+    pointer-events:none;
+    z-index:45;
+  }
+  .Resources-bar-url{
+    text-decoration:none;
+    margin-left:885px;
+    width:158px;
+    height:50px;
+    margin-top:-51px;
+    margin-bottom:1px;
+  }
+  .Stories-bar{
+    position:relative;
+    z-index:41;
+    pointer-events:auto;
+    cursor:pointer;
+    min-width:158px;
+    min-height:50px;
+    background-color:rgba(64, 50, 148, 1);
+    border-radius:35px;
+    width:100%;
+    height:100%;
+  }
+  .Stories-bar-outer{
+    position:relative;
+    display:flex;
+    pointer-events:none;
+    z-index:41;
+  }
+  .Stories-bar-url{
+    text-decoration:none;
+    margin-left:531px;
+    width:158px;
+    height:50px;
+    margin-top:-51px;
+    margin-bottom:1px;
+  }
+  .Home-bar{
+    position:relative;
+    z-index:35;
+    pointer-events:auto;
+    cursor:pointer;
+    min-width:158px;
+    min-height:50px;
+    background-color:rgba(64, 50, 148, 1);
+    border-radius:35px;
+    width:100%;
+    height:100%;
+  }
+  .Home-bar-outer{
+    position:relative;
+    display:flex;
+    pointer-events:none;
+    z-index:35;
+  }
+  .Home-bar-url{
+    text-decoration:none;
+    margin-left:0px;
+    width:158px;
+    height:50px;
+    margin-top:-51px;
+    margin-bottom:1px;
+  }
+  .Contact-Us{
+    position:relative;
+    z-index:49;
+    pointer-events:auto;
+    cursor:pointer;
+    min-width:41px;
+    min-height:42px;
+    content:url(assets/images/Contact_Us.png);
+    width:100%;
+    height:100%;
+  }
+  .Contact-Us-outer{
+    position:relative;
+    display:flex;
+    pointer-events:none;
+    z-index:49;
+  }
+  .Contact-Us-url{
+    text-decoration:none;
+    margin-left:1255px;
+    width:41px;
+    height:42px;
+    margin-top:-50px;
+    margin-bottom:8px;
+  }
+  .Our-Team-bar{
+    position:relative;
+    z-index:43;
+    pointer-events:auto;
+    cursor:pointer;
+    min-width:158px;
+    min-height:50px;
+    background-color:rgba(64, 50, 148, 1);
+    border-radius:35px;
+    width:100%;
+    height:100%;
+  }
+  .Our-Team-bar-outer{
+    position:relative;
+    display:flex;
+    pointer-events:none;
+    z-index:43;
+  }
+  .Our-Team-bar-url{
+    text-decoration:none;
+    margin-left:708px;
+    width:158px;
+    height:50px;
+    margin-top:-50px;
+    margin-bottom:0px;
+  }
+  .Our-Programs{
+    position:relative;
+    z-index:40;
+    pointer-events:auto;
+    cursor:pointer;
+    min-width:126px;
+    min-height:24px;
+    text-align:left;
+    display:flex;
+    flex-direction:column;
+    justify-content:flex-start;
+    color:rgba(255, 255, 255, 1);
+    font-style:normal;
+    font-family:Nokora;
+    font-weight:700;
+    font-size:18px;
+    line-height:24px;
+  }
+  .Our-Programs-outer{
+    position:relative;
+    display:flex;
+    pointer-events:none;
+    z-index:40;
+  }
+  .Our-Programs-url{
+    text-decoration:none;
+    margin-left:370px;
+    width:126px;
+    margin-top:-39px;
+    margin-bottom:15px;
+  }
+  .Resources{
+    position:relative;
+    z-index:46;
+    pointer-events:auto;
+    cursor:pointer;
+    min-width:92px;
+    min-height:24px;
+    text-align:left;
+    display:flex;
+    flex-direction:column;
+    justify-content:flex-start;
+    color:rgba(255, 255, 255, 1);
+    font-style:normal;
+    font-family:Nokora;
+    font-weight:700;
+    font-size:18px;
+    line-height:24px;
+  }
+  .Resources-outer{
+    position:relative;
+    display:flex;
+    pointer-events:none;
+    z-index:46;
+  }
+  .Resources-url{
+    text-decoration:none;
+    margin-left:917px;
+    width:92px;
+    margin-top:-38px;
+    margin-bottom:14px;
+  }
+  .Stories{
+    position:relative;
+    z-index:42;
+    pointer-events:auto;
+    cursor:pointer;
+    min-width:63px;
+    min-height:24px;
+    text-align:left;
+    display:flex;
+    flex-direction:column;
+    justify-content:flex-start;
+    color:rgba(255, 255, 255, 1);
+    font-style:normal;
+    font-family:Nokora;
+    font-weight:700;
+    font-size:18px;
+    line-height:24px;
+  }
+  .Stories-outer{
+    position:relative;
+    display:flex;
+    pointer-events:none;
+    z-index:42;
+  }
+  .Stories-url{
+    text-decoration:none;
+    margin-left:578px;
+    width:63px;
+    margin-top:-38px;
+    margin-bottom:14px;
+  }
+  .Our-Approach{
+    position:relative;
+    z-index:38;
+    pointer-events:auto;
+    cursor:pointer;
+    min-width:126px;
+    min-height:24px;
+    text-align:left;
+    display:flex;
+    flex-direction:column;
+    justify-content:flex-start;
+    color:rgba(255, 255, 255, 1);
+    font-style:normal;
+    font-family:Nokora;
+    font-weight:700;
+    font-size:18px;
+    line-height:24px;
+  }
+  .Our-Approach-outer{
+    position:relative;
+    display:flex;
+    pointer-events:none;
+    z-index:38;
+  }
+  .Our-Approach-url{
+    text-decoration:none;
+    margin-left:193px;
+    width:126px;
+    margin-top:-38px;
+    margin-bottom:14px;
+  }
+  .Home{
+    position:relative;
+    z-index:36;
+    pointer-events:auto;
+    cursor:pointer;
+    min-width:54px;
+    min-height:24px;
+    text-align:left;
+    display:flex;
+    flex-direction:column;
+    justify-content:flex-start;
+    color:rgba(255, 255, 255, 1);
+    font-style:normal;
+    font-family:Nokora;
+    font-weight:700;
+    font-size:18px;
+    line-height:24px;
+  }
+  .Home-outer{
+    position:relative;
+    display:flex;
+    pointer-events:none;
+    z-index:36;
+  }
+  .Home-url{
+    text-decoration:none;
+    margin-left:51px;
+    width:54px;
+    margin-top:-38px;
+    margin-bottom:14px;
+  }
+  .Gallery{
+    position:relative;
+    z-index:48;
+    pointer-events:auto;
+    cursor:pointer;
+    min-width:64px;
+    min-height:24px;
+    text-align:left;
+    display:flex;
+    flex-direction:column;
+    justify-content:flex-start;
+    color:rgba(255, 255, 255, 1);
+    font-style:normal;
+    font-family:Nokora;
+    font-weight:700;
+    font-size:18px;
+    line-height:24px;
+  }
+  .Gallery-outer{
+    position:relative;
+    display:flex;
+    pointer-events:none;
+    z-index:48;
+  }
+  .Gallery-url{
+    text-decoration:none;
+    margin-left:1109px;
+    width:64px;
+    margin-top:-37px;
+    margin-bottom:13px;
+  }
+  .Our-Team{
+    position:relative;
+    z-index:44;
+    pointer-events:auto;
+    cursor:pointer;
+    min-width:88px;
+    min-height:24px;
+    text-align:left;
+    display:flex;
+    flex-direction:column;
+    justify-content:flex-start;
+    color:rgba(255, 255, 255, 1);
+    font-style:normal;
+    font-family:Nokora;
+    font-weight:700;
+    font-size:18px;
+    line-height:24px;
+  }
+  .Our-Team-outer{
+    position:relative;
+    display:flex;
+    pointer-events:none;
+    z-index:44;
+  }
+  .Our-Team-url{
+    text-decoration:none;
+    margin-left:740px;
+    width:88px;
+    margin-top:-37px;
+    margin-bottom:13px;
+  }
+  .Line-1{
+    position:relative;
+    z-index:10;
+    pointer-events:none;
+    margin-left:0px;
+    width:1440px;
+    min-width:1440px;
+    margin-top:-821px;
+    margin-bottom:821px;
+    min-height:undefinedpx;
+    border:1px solid rgba(0, 0, 0, 1);
+  }
+  .Line-1-outer{
+    position:relative;
+    display:flex;
+    pointer-events:none;
+    z-index:10;
+  }
+  .Quick-Info{
+    position:relative;
+    z-index:25;
+    pointer-events:none;
+    margin-left:1042px;
+    width:398px;
+    min-width:398px;
+    height:187px;
+    margin-top:-760px;
+    margin-bottom:573px;
+    min-height:187px;
+  }
+  .Quick-Info-outer{
+    position:relative;
+    display:flex;
+    pointer-events:none;
+    z-index:25;
+  }
+  .Quick-Info-1{
+    position:relative;
+    z-index:27;
+    pointer-events:none;
+    margin-left:0px;
+    width:157px;
+    min-width:157px;
+    margin-top:0px;
+    margin-bottom:147px;
+    min-height:40px;
+    text-align:left;
+    display:flex;
+    flex-direction:column;
+    justify-content:flex-start;
+    color:rgba(206, 32, 32, 1);
+    font-style:normal;
+    font-family:Nokora;
+    font-weight:700;
+    font-size:30px;
+    line-height:40px;
+  }
+  .Quick-Info-1-outer{
+    position:relative;
+    display:flex;
+    pointer-events:none;
+    z-index:27;
+  }
+  .Line-2{
+    position:relative;
+    z-index:26;
+    pointer-events:none;
+    margin-left:0px;
+    width:398px;
+    min-width:398px;
+    margin-top:-140px;
+    margin-bottom:140px;
+    min-height:undefinedpx;
+    border:1px solid rgba(0, 0, 0, 1);
+  }
+  .Line-2-outer{
+    position:relative;
+    display:flex;
+    pointer-events:none;
+    z-index:26;
+  }
+  .G-H-R-I-S{
+    position:relative;
+    z-index:28;
+    pointer-events:auto;
+    cursor:pointer;
+    min-width:61px;
+    min-height:20px;
+    text-align:left;
+    display:flex;
+    flex-direction:column;
+    justify-content:flex-start;
+    color:rgba(0, 0, 0, 1);
+    font-style:normal;
+    font-family:Nokora;
+    font-weight:400;
+    font-size:15px;
+    line-height:20px;
+  }
+  .G-H-R-I-S-outer{
+    position:relative;
+    display:flex;
+    pointer-events:none;
+    z-index:28;
+  }
+  .G-H-R-I-S-url{
+    text-decoration:none;
+    margin-left:258px;
+    width:62px;
+    margin-top:-120px;
+    margin-bottom:100px;
+  }
+  .Kenya-Police-Sacco{
+    position:relative;
+    z-index:29;
+    pointer-events:auto;
+    cursor:pointer;
+    min-width:133px;
+    min-height:20px;
+    text-align:left;
+    display:flex;
+    flex-direction:column;
+    justify-content:flex-start;
+    color:rgba(0, 0, 0, 1);
+    font-style:normal;
+    font-family:Nokora;
+    font-weight:400;
+    font-size:15px;
+    line-height:20px;
+  }
+  .Kenya-Police-Sacco-outer{
+    position:relative;
+    display:flex;
+    pointer-events:none;
+    z-index:29;
+  }
+  .Kenya-Police-Sacco-url{
+    text-decoration:none;
+    margin-left:204px;
+    width:133px;
+    margin-top:-100px;
+    margin-bottom:80px;
+  }
+  .Harambee-Sacco-Socie{
+    position:relative;
+    z-index:30;
+    pointer-events:auto;
+    cursor:pointer;
+    min-width:172px;
+    min-height:20px;
+    text-align:left;
+    display:flex;
+    flex-direction:column;
+    justify-content:flex-start;
+    color:rgba(0, 0, 0, 1);
+    font-style:normal;
+    font-family:Nokora;
+    font-weight:400;
+    font-size:15px;
+    line-height:20px;
+  }
+  .Harambee-Sacco-Socie-outer{
+    position:relative;
+    display:flex;
+    pointer-events:none;
+    z-index:30;
+  }
+  .Harambee-Sacco-Socie-url{
+    text-decoration:none;
+    margin-left:173px;
+    width:172px;
+    margin-top:-80px;
+    margin-bottom:60px;
+  }
+  .eCitizen{
+    position:relative;
+    z-index:31;
+    pointer-events:auto;
+    cursor:pointer;
+    min-width:56px;
+    min-height:20px;
+    text-align:left;
+    display:flex;
+    flex-direction:column;
+    justify-content:flex-start;
+    color:rgba(0, 0, 0, 1);
+    font-style:normal;
+    font-family:Nokora;
+    font-weight:400;
+    font-size:15px;
+    line-height:20px;
+  }
+  .eCitizen-outer{
+    position:relative;
+    display:flex;
+    pointer-events:none;
+    z-index:31;
+  }
+  .eCitizen-url{
+    text-decoration:none;
+    margin-left:270px;
+    width:56px;
+    margin-top:-60px;
+    margin-bottom:40px;
+  }
+  .Huduma-Kenya{
+    position:relative;
+    z-index:32;
+    pointer-events:auto;
+    cursor:pointer;
+    min-width:109px;
+    min-height:20px;
+    text-align:left;
+    display:flex;
+    flex-direction:column;
+    justify-content:flex-start;
+    color:rgba(0, 0, 0, 1);
+    font-style:normal;
+    font-family:Nokora;
+    font-weight:400;
+    font-size:15px;
+    line-height:20px;
+  }
+  .Huduma-Kenya-outer{
+    position:relative;
+    display:flex;
+    pointer-events:none;
+    z-index:32;
+  }
+  .Huduma-Kenya-url{
+    text-decoration:none;
+    margin-left:228px;
+    width:109px;
+    margin-top:-40px;
+    margin-bottom:20px;
+  }
+  .KPS-Staff-Mail{
+    position:relative;
+    z-index:33;
+    pointer-events:auto;
+    cursor:pointer;
+    min-width:97px;
+    min-height:20px;
+    text-align:left;
+    display:flex;
+    flex-direction:column;
+    justify-content:flex-start;
+    color:rgba(0, 0, 0, 1);
+    font-style:normal;
+    font-family:Nokora;
+    font-weight:400;
+    font-size:15px;
+    line-height:20px;
+  }
+  .KPS-Staff-Mail-outer{
+    position:relative;
+    display:flex;
+    pointer-events:none;
+    z-index:33;
+  }
+  .KPS-Staff-Mail-url{
+    text-decoration:none;
+    margin-left:233px;
+    width:97px;
+    margin-top:-20px;
+    margin-bottom:0px;
+  }
+  .Police-Minds-Matter{
+    position:relative;
+    z-index:11;
+    pointer-events:none;
+    margin-left:58px;
+    width:399px;
+    min-width:399px;
+    margin-top:-734px;
+    margin-bottom:681px;
+    min-height:53px;
+    text-align:left;
+    display:flex;
+    flex-direction:column;
+    justify-content:flex-start;
+    color:rgba(0, 0, 0, 1);
+    font-style:normal;
+    font-family:Nokora;
+    font-weight:700;
+    font-size:40px;
+    line-height:53px;
+  }
+  .Police-Minds-Matter-outer{
+    position:relative;
+    display:flex;
+    pointer-events:none;
+    z-index:11;
+  }
+  .Intro-2{
+    position:relative;
+    z-index:12;
+    pointer-events:none;
+    margin-left:58px;
+    width:884.06px;
+    min-width:884.06px;
+    height:184px;
+    margin-top:-681px;
+    margin-bottom:497px;
+    min-height:184px;
+  }
+  .Intro-2-outer{
+    position:relative;
+    display:flex;
+    pointer-events:none;
+    z-index:12;
+  }
+  .Intro-3{
+    position:relative;
+    z-index:13;
+    pointer-events:none;
+    margin-left:0px;
+    width:871px;
+    min-width:871px;
+    height:184px;
+    margin-top:0px;
+    margin-bottom:0px;
+    min-height:184px;
+  }
+  .Intro-3-outer{
+    position:relative;
+    display:flex;
+    pointer-events:none;
+    z-index:13;
+  }
+  .Intro-box-1{
+    position:relative;
+    z-index:14;
+    pointer-events:none;
+    margin-left:0px;
+    width:871px;
+    min-width:871px;
+    height:184px;
+    margin-top:0px;
+    margin-bottom:0px;
+    min-height:184px;
+    background-color:rgba(223, 218, 218, 1);
+  }
+  .Intro-box-1-outer{
+    position:relative;
+    display:flex;
+    pointer-events:none;
+    z-index:14;
+  }
+  .Police-minds-matter-{
+    position:relative;
+    z-index:15;
+    pointer-events:none;
+    margin-left:18px;
+    width:865.58px;
+    min-width:865.58px;
+    margin-top:-164px;
+    margin-bottom:20px;
+    min-height:144px;
+    text-align:left;
+    display:flex;
+    flex-direction:column;
+    justify-content:flex-start;
+    color:rgba(0, 0, 0, 1);
+    font-style:normal;
+    font-family:Nokora;
+    font-weight:400;
+    font-size:18px;
+    line-height:24px;
+  }
+  /*/this styles outer paragraph/*/
+  .Police-minds-matter--outer{
+    position:relative;
+    display:flex;
+    pointer-events:none;
+    z-index:15;
+  }
+  /*/this styles outer paragraph/*/
+  .Suicide1-1{
+    position:relative;
+    z-index:4;
+    pointer-events:none;
+    margin-left:37px;
+    width:446px;
+    min-width:446px;
+    height:325px;
+    margin-top:-410px;
+    margin-bottom:85px;
+    min-height:325px;
+    content:url(assets/images/Suicide1_1.png);
+  }
+  .Suicide1-1-outer{
+    position:relative;
+    display:flex;
+    pointer-events:none;
+    z-index:4;
+  }
+  .Intro{
+    position:relative;
+    z-index:16;
+    pointer-events:none;
+    margin-left:526px;
+    width:884.06px;
+    min-width:884.06px;
+    height:184px;
+    margin-top:-381px;
+    margin-bottom:197px;
+    min-height:184px;
+  }
+  .Intro-outer{
+    position:relative;
+    display:flex;
+    pointer-events:none;
+    z-index:16;
+  }
+  .Intro-1{
+    position:relative;
+    z-index:17;
+    pointer-events:none;
+    margin-left:0px;
+    width:884px;
+    min-width:884px;
+    height:184px;
+    margin-top:0px;
+    margin-bottom:0px;
+    min-height:184px;
+  }
+  .Intro-1-outer{
+    position:relative;
+    display:flex;
+    pointer-events:none;
+    z-index:17;
+  }
+  .Intro-box{
+    position:relative;
+    z-index:18;
+    pointer-events:none;
+    margin-left:0px;
+    width:884px;
+    min-width:884px;
+    height:184px;
+    margin-top:0px;
+    margin-bottom:0px;
+    min-height:184px;
+    background-color:rgba(223, 218, 218, 1);
+  }
+  .Intro-box-outer{
+    position:relative;
+    display:flex;
+    pointer-events:none;
+    z-index:18;
+  }
+  .The-news-about-polic{
+    position:relative;
+    z-index:19;
+    pointer-events:none;
+    margin-left:18px;
+    width:865.58px;
+    min-width:865.58px;
+    margin-top:-164px;
+    margin-bottom:20px;
+    min-height:144px;
+    text-align:left;
+    display:flex;
+    flex-direction:column;
+    justify-content:flex-start;
+    color:rgba(0, 0, 0, 1);
+    font-style:normal;
+    font-family:Nokora;
+    font-weight:400;
+    font-size:18px;
+    line-height:24px;
+  }
+  .The-news-about-polic-outer{
+    position:relative;
+    display:flex;
+    pointer-events:none;
+    z-index:19;
+  }
+  .angry-policeman-poli{
+    position:relative;
+    z-index:20;
+    pointer-events:none;
+    margin-left:1121px;
+    width:230px;
+    min-width:230px;
+    height:163px;
+    margin-top:-167px;
+    margin-bottom:4px;
+    min-height:163px;
+    content:url(assets/images/angry_policeman_police_officer_cartoon_2AE1T3J_1.png);
+  }
+  .angry-policeman-poli-outer{
+    position:relative;
+    display:flex;
+    pointer-events:none;
+    z-index:20;
+  }
+  
